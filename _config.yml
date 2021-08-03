@@ -13,10 +13,10 @@
 minimal_mistakes_skin    : "dark"
 # Site Settings
 locale                   : "en-US"
-title                    : "CyberGuy | Blog"
+title                    : "Mohamed Tarek | Blog"
 title_separator          : "-"
-name                     : "Momen Ali"
-description              : "CyberSecuirty Researcher & Instructor Blog"
+name                     : "timooon"
+description              : "Student Engineer | Bug Hunter | Red Teaming Wanna Be"
 url                      : #
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -82,7 +82,7 @@ naver_site_verification  :
 twitter:
   username               : #""
 facebook:
-  username               : "momeneldawakhly"
+  username               : "timooon107"
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -103,9 +103,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Momen Ali"
-  avatar           : https://i.pinimg.com/originals/48/e6/d1/48e6d1c608b05fd312abb7cd3b1c5995.jpg
-  bio              : "CyberSecurity Researcher & Instructor"
+  name             : "Mohamed Tarek"
+  avatar           : https://i.ibb.co/JdRq021/Whats-App-Image-2021-03-05-at-2-33-33-AM.jpg
+  bio              : "Student Engineer | Bug Hunter | Red Teaming Wanna Be"
   location         : "Egypt"
   email            : #
   links:
@@ -114,18 +114,18 @@ author:
       url: "#"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: "https://www.facebook.com/Jizen0x01"
+      url: "https://www.facebook.com/timooon107"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/Cyber-Guy1"
+      url: "https://github.com/MohamedTarekq"
       # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: #""
     - label: "Linkedin"
-      url: "https://eg.linkedin.com/in/momen-eldawakhly-3b6250204"
+      url: "https://www.linkedin.com/in/mohammed-tarekq/"
     - label: "Youtube"
-      url: "https://youtube.com/c/Cyber-Guy1"
+      url: #""
       
 # Site Footer
 footer:
