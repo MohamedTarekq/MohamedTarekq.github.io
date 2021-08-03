@@ -42,7 +42,7 @@ comments:
 staticman:
   allowedFields          : # ['name', 'email', 'url', 'message']
   branch                 : # "master"
-  commitMessage          : # "New comment by {fields.name}"
+  commitMessage          : # "New comment by {fields.name}"cy
   filename               : # comment-{@timestamp}
   format                 : # "yml"
   moderation             : # true
@@ -138,7 +138,7 @@ footer:
       #url: ""
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/Cyber-Guy1"
+      url: "https://github.com/MohamedTarekq"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url: ""
